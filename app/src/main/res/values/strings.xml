@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Newspaper</string>
+    <string-array name="heading">
+        <item>BTS: Kim Taehyung Turns Into J-Hope's Lucky Charm As ARMYs Notice Him In More MV</item>
+        <item>J-Hope, the sunshine of BTS</item>
+        <item>BTS fans follow RM's lead, throng US Art Museums visited by K-Pop idol</item>
+        <item>Paris Fashion Week: V of BTS, Blackpink's Lisa and South Korean star Park Bo-gum surprise
+            fans before Celine's show</item>
+
+    </string-array>
+
+    <string-array name="subHeading">
+        <item>The rapper talks about his passion for music and giving it all</item>
+        <item>Bts, bangtan boys, is a south korean boys band that was formed in 2010</item>
+        <item>BTS is a famous South Korean boyband that has worldwide fan following. </item>
+        <item>PARIS: Celine designer Hedi Slimane sent out a lineup of bare-chested models in sheer</item>
+    </string-array>
+</resources>
